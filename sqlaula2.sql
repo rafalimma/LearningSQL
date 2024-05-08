@@ -1,0 +1,7 @@
+
+CREATE DATABASE pessoas;
+SHOW DATABASES;
+
+CREATE DATABASE empresa;
+
+DESCRIBE funcionarios;
